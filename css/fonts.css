@@ -1,0 +1,131 @@
+/* Font Number 1 */  
+   @font-face {
+    font-family:Titraj Bold1;
+    src: url("../fonts/Titraj Bold1.ttf");
+ }
+
+ /* Font Number 2 */ 
+    @font-face {
+    font-family:Titraj Bold2;
+    src: url("../fonts/Titraj Bold2.ttf");
+ }
+
+  /* Font Number 3 */ 
+    @font-face {
+    font-family:Titr Bold;
+    src: url("../fonts/Titr Bold.ttf");
+ }
+
+ /* Font Number 4 */ 
+    @font-face {
+    font-family:BZar Bold;
+    src: url("../fonts/BZar Bold.ttf");
+ }
+
+/* Font Number 5 */ 
+    @font-face {
+    font-family:BZar;
+    src: url("../fonts/BZar.ttf");
+ }
+ 
+/* Font Number 6 */ 
+    @font-face {
+    font-family:BNAZANIN;
+    src: url("../fonts/BNAZANIN.ttf");
+ }
+
+/* Font Number 7 */ 
+    @font-face {
+    font-family:FarKetab;
+    src: url("../fonts/FarKetab.ttf");
+ }
+
+/* Font Number 8 */ 
+    @font-face {
+    font-family:FarTitrBd;
+    src: url("../fonts/FarTitrBd.ttf");
+ }
+
+/* Font Number 9 */ 
+    @font-face {
+    font-family:FarZar;
+    src: url("../fonts/FarZar.ttf");
+ }
+
+/* Font Number 10 */ 
+    @font-face {
+    font-family:FarZarBd;
+    src: url("../fonts/FarZarBd.ttf");
+ }
+
+/* Font Number 11 */ 
+    @font-face {
+    font-family:IranNastaliq;
+    src: url("../fonts/IranNastaliq.ttf");
+ }
+
+/* Font Number 12 */ 
+    @font-face {
+    font-family:Titr Stripe;
+    src: url("../fonts/Titr Stripe.ttf");
+ }
+
+/* Font Number 13 */ 
+    @font-face {
+    font-family:titraj sayeh;
+    src: url("../fonts/titraj sayeh.ttf");
+ }
+
+/* Font Number 14 */ 
+    @font-face {
+    font-family:Vazirmatn Black;
+    src: url("../fonts/Vazirmatn Black.ttf");
+ }
+
+/* Font Number 15 */ 
+    @font-face {
+    font-family:Vazirmatn Bold;
+    src: url("../fonts/Vazirmatn Bold.ttf");
+ }
+
+/* Font Number 16 */ 
+    @font-face {
+    font-family:Vazirmatn ExtraBold;
+    src: url("./fonts/Vazirmatn ExtraBold.ttf");
+ }
+
+/* Font Number 17 */ 
+    @font-face {
+    font-family:Vazirmatn ExtraLight;
+    src: url("../fonts/Vazirmatn ExtraLight.ttf");
+ }
+
+/* Font Number 18 */ 
+    @font-face {
+    font-family:Vazirmatn Light;
+    src: url("../fonts/Vazirmatn Light.ttf");
+ }
+
+/* Font Number 19 */ 
+    @font-face {
+    font-family:Vazirmatn Medium;
+    src: url("../fonts/Vazirmatn Medium.ttf");
+ }
+
+/* Font Number 20 */ 
+    @font-face {
+    font-family:Vazirmatn Regular;
+    src: url("../fonts/Vazirmatn Regular.ttf");
+ }
+
+/* Font Number 21 */ 
+    @font-face {
+    font-family:Vazirmatn SemiBold;
+    src: url("../fonts/Vazirmatn SemiBold.ttf");
+ } 
+
+/* Font Number 22 */ 
+    @font-face {
+    font-family:Vazirmatn Thin;
+    src: url("../fonts/Vazirmatn Thin.ttf");
+ }
