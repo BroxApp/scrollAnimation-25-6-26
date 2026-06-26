@@ -1,4 +1,4 @@
-![Scroll Animation Banner](scroll-animation-banner.png)
+![Scroll Animation Banner](scrollAnimation-26-6-26.png)
 # Scroll Animation
 
 A dynamic, interactive scroll animation project built with HTML, CSS, and Vanilla JavaScript.
