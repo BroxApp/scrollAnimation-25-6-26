@@ -1,18 +1,18 @@
-![Digital Clock Banner](Digital-Clock-13-5-26.png)
-# Digital Clock
+![Scroll Animation Banner](scroll-animation-banner.png)
+# Scroll Animation
 
-A sleek, modern digital clock built with HTML, CSS, and Vanilla JavaScript.
+A dynamic, interactive scroll animation project built with HTML, CSS, and Vanilla JavaScript.
 
 ## Features
-- 12-hour format with AM/PM indicator.
-- Glowing neon effect.
-- Built using Google Fonts (Orbitron) for a digital look.
-- Glassmorphism background effect.
+- Smooth reveal animations triggered by scrolling.
+- Responsive design that works across various devices.
+- Lightweight implementation using pure JavaScript (no external libraries).
+- Modular CSS structure for easy customization.
 
 ## Technologies Used
 - HTML5
-- CSS3 (Flexbox, Gradients, Text-shadow)
-- JavaScript (DOM Manipulation, setInterval)
+- CSS3 (Transitions, Keyframes, Flexbox)
+- JavaScript (Intersection Observer API / Scroll Events)
 
 ## How to Run
-Simply open `index.html` in any modern web browser. 
+Simply open `index.html` in any modern web browser.
